@@ -1,0 +1,12 @@
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\bin\Debug\net8.0\PassagensServices.deps.json
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\bin\Debug\net8.0\PassagensServices.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\bin\Debug\net8.0\PassagensServices.pdb
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.csproj.AssemblyReference.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.AssemblyInfoInputs.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.AssemblyInfo.cs
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.csproj.CoreCompileInputs.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\refint\PassagensServices.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\PassagensServices.pdb
+C:\Users\tiagg\source\repos\PassagensApi\PassagensServices\obj\Debug\net8.0\ref\PassagensServices.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE270A9E-5159-4E29-A3C5-9003A6C16645}|PassagensApi\\PassagensApi.csproj|c:\\users\\tiagg\\source\\repos\\passagensapi\\passagensapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE270A9E-5159-4E29-A3C5-9003A6C16645}|PassagensApi\\PassagensApi.csproj|solutionrelative:passagensapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE270A9E-5159-4E29-A3C5-9003A6C16645}|PassagensApi\\PassagensApi.csproj|c:\\users\\tiagg\\source\\repos\\passagensapi\\passagensapi\\controllers\\voocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE270A9E-5159-4E29-A3C5-9003A6C16645}|PassagensApi\\PassagensApi.csproj|solutionrelative:passagensapi\\controllers\\voocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20C16A-5649-4DD9-802D-961189313890}|PassagensServices\\PassagensServices.csproj|c:\\users\\tiagg\\source\\repos\\passagensapi\\passagensservices\\obtepassagensquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20C16A-5649-4DD9-802D-961189313890}|PassagensServices\\PassagensServices.csproj|solutionrelative:passagensservices\\obtepassagensquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F20C16A-5649-4DD9-802D-961189313890}|PassagensServices\\PassagensServices.csproj|c:\\users\\tiagg\\source\\repos\\passagensapi\\passagensservices\\model\\ciaaereaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F20C16A-5649-4DD9-802D-961189313890}|PassagensServices\\PassagensServices.csproj|solutionrelative:passagensservices\\model\\ciaaereaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensApi\\Program.cs",
+              "RelativeDocumentMoniker": "PassagensApi\\Program.cs",
+              "ToolTip": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensApi\\Program.cs",
+              "RelativeToolTip": "PassagensApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:24:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CiaAereaApi.cs",
+              "DocumentMoniker": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensServices\\model\\CiaAereaApi.cs",
+              "RelativeDocumentMoniker": "PassagensServices\\model\\CiaAereaApi.cs",
+              "ToolTip": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensServices\\model\\CiaAereaApi.cs",
+              "RelativeToolTip": "PassagensServices\\model\\CiaAereaApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:18:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObtePassagensQuery.cs",
+              "DocumentMoniker": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensServices\\ObtePassagensQuery.cs",
+              "RelativeDocumentMoniker": "PassagensServices\\ObtePassagensQuery.cs",
+              "ToolTip": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensServices\\ObtePassagensQuery.cs",
+              "RelativeToolTip": "PassagensServices\\ObtePassagensQuery.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:07:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VooController.cs",
+              "DocumentMoniker": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensApi\\Controllers\\VooController.cs",
+              "RelativeDocumentMoniker": "PassagensApi\\Controllers\\VooController.cs",
+              "ToolTip": "C:\\Users\\tiagg\\source\\repos\\PassagensApi\\PassagensApi\\Controllers\\VooController.cs",
+              "RelativeToolTip": "PassagensApi\\Controllers\\VooController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:07:27.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

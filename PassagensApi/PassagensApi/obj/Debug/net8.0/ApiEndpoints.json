@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PassagensApi.Controllers.VooController",
+    "Method": "Get",
+    "RelativePath": "api/agencia/Voo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

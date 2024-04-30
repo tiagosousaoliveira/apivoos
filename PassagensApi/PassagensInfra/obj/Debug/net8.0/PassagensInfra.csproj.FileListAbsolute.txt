@@ -1,0 +1,15 @@
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\bin\Debug\net8.0\PassagensInfra.deps.json
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\bin\Debug\net8.0\PassagensInfra.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\bin\Debug\net8.0\PassagensInfra.pdb
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\bin\Debug\net8.0\PassagensServices.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\bin\Debug\net8.0\PassagensServices.pdb
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.csproj.AssemblyReference.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.AssemblyInfoInputs.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.AssemblyInfo.cs
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.csproj.CoreCompileInputs.cache
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\Passagen.C018CDC0.Up2Date
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\refint\PassagensInfra.dll
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\PassagensInfra.pdb
+C:\Users\tiagg\source\repos\PassagensApi\PassagensInfra\obj\Debug\net8.0\ref\PassagensInfra.dll
